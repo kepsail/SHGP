@@ -1,5 +1,9 @@
 # SHGP
-This repository contains the source code of our NeurIPS 2022 paper: "Self-supervised Heterogeneous Graph Pre-training based on Structural Clustering".
+This repository contains the source code of our NeurIPS 2022 paper: "Self-supervised Heterogeneous Graph Pre-training based on Structural Clustering". 
+
+See the paper at OpenReview: <https://openreview.net/forum?id=fBU4qsM6Fkf>.
+
+
 
 ## Environment Settings
 > python==3.8.8
