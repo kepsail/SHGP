@@ -8,13 +8,25 @@ See the paper at OpenReview: <https://openreview.net/forum?id=fBU4qsM6Fkf>.
 
 ## Environment Settings
 python == 3.8.8
+
 scipy == 1.6.2
+
 torch == 1.9.1
+
 numpy == 1.20.1
+
 scikit-learn == 0.24.1
 
+
+
+## Hardware
+
 GPU: GeForce GTX 1080 Ti
+
 CPU: Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+
+
+
 
 ## Usage
 Go to ./code, and execute the following command:
