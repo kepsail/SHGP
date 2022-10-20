@@ -3,6 +3,8 @@ This repository contains the source code of our NeurIPS 2022 paper: "Self-superv
 
 See the paper at OpenReview: <https://openreview.net/forum?id=fBU4qsM6Fkf>.
 
+See the pre-print version at arXiv: <https://arxiv.org/abs/2210.10462>.
+
 
 
 ## Datasets
