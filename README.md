@@ -9,8 +9,6 @@ See the pre-print version at arXiv: <https://arxiv.org/abs/2210.10462>.
 
 ![model](shgp.png)
 
-<center>Model architecture</center>
-
 
 
 ## Datasets
