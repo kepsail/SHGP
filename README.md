@@ -7,6 +7,12 @@ See the pre-print version at arXiv: <https://arxiv.org/abs/2210.10462>.
 
 
 
+![model](shgp.png)
+
+<center>模型架构图</center>
+
+
+
 ## Datasets
 The other preprocessed datasets are too large to be posted on GitHub. You can download them from our Baidu cloud drive: [https://pan.baidu.com/s/1_EemCZ4XOiIX07JemSTpaA?pwd=shgp](https://pan.baidu.com/s/1_EemCZ4XOiIX07JemSTpaA?pwd=shgp).
 
