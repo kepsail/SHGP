@@ -11,17 +11,18 @@ See the pre-print version at arXiv: <https://arxiv.org/abs/2210.10462>.
 
 
 
-## Base Encoder
-For the Att-HGNN module of SHGP, we adopt our previously proposed ie-HGCN as its base encoder. Please refer to our ie-HGCN repository: [https://github.com/kepsail/ie-HGCN](https://github.com/kepsail/ie-HGCN).
-
-
-
 ## Datasets
 The other preprocessed datasets are too large to be posted on GitHub. You can download them from our Baidu cloud drive: [https://pan.baidu.com/s/1_EemCZ4XOiIX07JemSTpaA?pwd=shgp](https://pan.baidu.com/s/1_EemCZ4XOiIX07JemSTpaA?pwd=shgp).
 
 
 
-## Environment Settings
+## Base Encoder
+For the Att-HGNN module of SHGP, we adopt our previously proposed ie-HGCN as its base encoder. Please refer to our ie-HGCN repository: [https://github.com/kepsail/ie-HGCN](https://github.com/kepsail/ie-HGCN).
+
+
+
+## Software
+
 python == 3.8.8
 
 scipy == 1.6.2
